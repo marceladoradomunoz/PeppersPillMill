@@ -1,0 +1,9 @@
+Statistics:
+dataB1: 49,000000 27,922034
+dataB2: 55,000000 27,963727
+dataB3: 49,000000 31,205769
+
+Results:
+dataB1.txt vs dataB2.txt : false
+dataB1.txt vs dataB3.txt : false
+dataB2.txt vs dataB3.txt : false

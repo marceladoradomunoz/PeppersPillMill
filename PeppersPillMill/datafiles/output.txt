@@ -1,0 +1,7 @@
+Statistics:
+dataA1: 69,000000 18,422812
+dataA2: 47,000000 19,919839
+dataA3: 51,000000 20,702254
+
+Results:
+dataA1.txt vs dataA2.txt : true
